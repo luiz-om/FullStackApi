@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Id": 1,
+    "Nome": "Luiz Fernando",
+    "SobreNome": "Oliveira Martins",
+    "Telefone": "333-3330",
+    "Ra": 1158980501
+  },
+  {
+    "Id": 2,
+    "Nome": "Marta",
+    "SobreNome": "Souza Cruz ",
+    "Telefone": "333-5213",
+    "Ra": 254869513
+  }
+]
