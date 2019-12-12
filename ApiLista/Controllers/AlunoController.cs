@@ -5,9 +5,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace ApiLista.Controllers
 {
+    [EnableCors("*", "*", "*", "*")]
     public class AlunoController : ApiController
     {
         Alunos aluno = new Alunos();
